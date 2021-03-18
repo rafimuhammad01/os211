@@ -33,4 +33,7 @@ ZCZC W03  100 L02 Zoom related
 ZCZC W03  30 L11 Assingment #1
 ZCZC W03  10 L12 Assingment #2
 ZCZC W03  5 L13 Assingment #3
-ZCZC W06  5 L16 Assignment #6
+ZCZC W03  5 L16 Assignment #6
+ZCZC W03  10 L17 Assignment #7
+ZCZC W03  3 L18 Assignment #8
+ZCZC W03  3 L19 Assignment #9
