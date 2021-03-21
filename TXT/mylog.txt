@@ -37,3 +37,5 @@ ZCZC W03  5 L16 Assignment #6
 ZCZC W03  10 L17 Assignment #7
 ZCZC W03  3 L18 Assignment #8
 ZCZC W03  3 L19 Assignment #9
+ZCZC W03  30 L14 Assingment #4
+ZCZC W03  70 L15 Assignment #5
