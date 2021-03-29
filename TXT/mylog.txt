@@ -41,3 +41,12 @@ ZCZC W03  30 L14 Assingment #4
 ZCZC W03  70 L15 Assignment #5
 ZCZC W04  100 L02 Zoom related
 ZCZC W04  30 L11 Assignment #1
+ZCZC W04  90 L12 Assingment #2
+ZCZC W04  60 L13 Assingment #3
+ZCZC W04  30 L15 Assingment #5
+ZCZC W04  60 L16 Assingment #6
+ZCZC W04  30 L17 Assignment #7
+ZCZC W04  5 L18 Assingment #8
+ZCZC W04  30 L18 Assingment 
+C
+ZCZC W04  3 
