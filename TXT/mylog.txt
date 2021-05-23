@@ -72,3 +72,9 @@ ZCZC W08 15 L12 Assingment #2
 ZCZC W08 60 L14 Assignment #4
 ZCZC W08 10 L15 Assignment #5
 ZCZC W08 5 L15 Assignment #6
+ZCZC W09 100 L02 Zoom related
+ZCZC W09 60 L11 Assignment #1
+ZCZC W09 300 L14 Assignment #4
+ZCZC W09 10 L15 Assignment #5
+ZCZC W09 5 L16 Assignment #6
+ZCZC W09 3 L17 Assignment #7
